@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImpTest</string>
+    <string name="title_home">Cases</string>
+    <string name="title_dashboard">States</string>
+    <string name="title_notifications">Tests</string>
+</resources>
